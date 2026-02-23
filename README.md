@@ -4,8 +4,8 @@
 
 ### Unity Developer | AR/VR | Interactive Experiences | Arcade & Mobile Games
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-dilip-patel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio-link](https://rahulpatel61020.wixsite.com/resume))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulpatel61020@gmail.com)
 
 </div>
@@ -70,10 +70,10 @@ I adapt across genres, platforms, and tech stacks — always with a sharp focus 
 
 ## 🚀 Featured Projects
 
-### 🃏 [Perfect Match](https://github.com)
+### 🃏 [Perfect Match]
 > Card matching game with dynamic grid configurations (2×2, 2×3, 5×6), smooth coroutine-driven flip animations, and responsive UI scaling across screen resolutions.
 
-### 🌍 [Procedural Environment Generator](https://github.com)
+### 🌍 [Procedural Environment Generator]
 > Runtime platform generation system using event-driven architecture — dynamically spawns GameObjects with randomized gap and height values for endlessly varied level layouts.
 
 ### 🔩 Pipe Bending Machine Simulation
