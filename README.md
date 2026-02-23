@@ -91,11 +91,10 @@ I adapt across genres, platforms, and tech stacks — always with a sharp focus 
 
 <div align="center">
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatel06120&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel06120&layout=compact&theme=tokyonight&hide_border=true)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatel61020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel61020&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🎓 Education
